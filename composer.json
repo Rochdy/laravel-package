@@ -1,0 +1,12 @@
+{
+    "name": "laraveldaily/timezones",
+    "description": "test package",
+    "authors": [
+        {
+            "name": "Rochdy time",
+            "email": "le.roshdy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
